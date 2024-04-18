@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.uniovi.sdi</groupId>
-	<artifactId>sdix-lab-soap-sw-server</artifactId>
+	<artifactId>sdi2324-207-lab-soap-sw-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sdix-lab-soap-sw-server</name>
 	<description>sdix-lab-soap-sw-server</description>
